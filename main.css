@@ -206,3 +206,7 @@ html, body {
   text-align: center;
   color: #f06292;
 }
+
+nav.menu ul li a {
+  font-weight: bold;
+}
